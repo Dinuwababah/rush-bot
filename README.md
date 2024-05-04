@@ -63,10 +63,7 @@ https://github.com/Dinuwababah/rush-bot/blob/main/README.md
 <a href="https://sites.google.com/view/hellolanka/hellolanka-home"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 <br>
 
-
-<br>
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/Dinuwababah/rush-bot/blob/main/README.md-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=RUSH-MD)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
@@ -274,6 +271,6 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-`Release date:- 2023.08.24`
+`Release date:- 2024.05.05`
 <br>
-`latest updated date:- 2024.02.16`
+`latest updated date:- 2024..05.05`
