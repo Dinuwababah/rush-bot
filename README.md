@@ -62,7 +62,7 @@
 
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/Dinuwababah/rush-bot.git-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=rush-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/Dinuwababah/rush-bot/blob/main/README.md-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=rush-md)
 <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
@@ -80,7 +80,7 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+# RUSH-MD Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
