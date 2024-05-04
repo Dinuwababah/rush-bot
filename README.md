@@ -55,10 +55,10 @@
 <br>
 
 
-<a href="https://sites.google.com/u/0/d/1sWEy31nwj2LDwWA_VaMPFBxs4Rlry5Q5/preview/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
-
-<a href="https://sites.google.com/u/0/d/1sWEy31nwj2LDwWA_VaMPFBxs4Rlry5Q5/preview/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://sites.google.com/view/hellolanka/hellolanka-home"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://sites.google.com/view/hellolanka/hellolanka-home"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 <br>
+
 
 <br>
 
