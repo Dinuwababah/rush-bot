@@ -3,10 +3,6 @@
 
 # RUSH-MD  💗💓 - A Javascript WhatsApp User Bot
 
-# 𝗕𝗢𝗧 සෑදීමේදි 𝗿𝘂𝘀𝗵 ගේ 𝘄𝗲𝗯 𝘂𝗿𝗹 එක 𝗸𝗼𝘆𝗲𝗯 හී අදල ස්තානයට දෙන්න
-https://github.com/Dinuwababah/rush-bot/blob/main/README.md    
-𝗻𝗲𝘄 𝘂𝗽𝗱𝗮𝘁𝗲 𝘄𝗶𝗹𝗹 𝗰𝗼𝗺𝗶𝗻𝗴 𝘀𝗼𝗼𝗻 2025💗💗💗💗💗
-
 <br>
 
 🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
