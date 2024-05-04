@@ -1,7 +1,11 @@
 # rush-bot
 <br>
 
-## RUSH-MD  💗💓 - A Javascript WhatsApp User Bot
+# RUSH-MD  💗💓 - A Javascript WhatsApp User Bot
+
+# 𝗕𝗢𝗧 සෑදීමේදි 𝗿𝘂𝘀𝗵 ගේ 𝘄𝗲𝗯 𝘂𝗿𝗹 එක 𝗸𝗼𝘆𝗲𝗯 හී අදල ස්තානයට දෙන්න
+https://github.com/Dinuwababah/rush-bot/blob/main/README.md    
+𝗻𝗲𝘄 𝘂𝗽𝗱𝗮𝘁𝗲 𝘄𝗶𝗹𝗹 𝗰𝗼𝗺𝗶𝗻𝗴 𝘀𝗼𝗼𝗻 2025💗💗💗💗💗
 
 <br>
 
@@ -62,7 +66,7 @@
 
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/Dinuwababah/rush-bot/blob/main/README.md-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=rush-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/Dinuwababah/rush-bot/blob/main/README.md-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=RUSH-MD)
 <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
