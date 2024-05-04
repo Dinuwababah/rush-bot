@@ -29,21 +29,21 @@
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/rush/RUSH-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
-
-
+![stars](https://img.shields.io/github/stars/rush/RUSH-MD?style=social)
 
 
-<br>
-<br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
+<br>
 
-<a href="https://prabath--md-official.vercel.app/"><img src="https://img.shields.io/badge/Our%20Official%20Website-blue" alt="🌐 Our Official Website" width="300"></a>
+<a href="https://chat.whatsapp.com/HAikOGRGYd0J9Hcs2v6RFb">
+
+<br>
+
+<a href="https://https://github.com/Dinuwababah/"><img src="https://https://telegra.ph/file/f6db668edf0566a869862.jpg" alt="🌐 Our Official Website" width="300"></a>
 
 
 <br>
@@ -244,15 +244,15 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 ## 👑 **`RUSH-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/Dinuwababah"><img src="https://telegra.ph/file/f6db668edf0566a869862.jpg" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`rush`](https://github.com/Dinuwababah)**|
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/Dinuwababah"><img src="https://telegra.ph/file/f6db668edf0566a869862.jpg" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`rush`](https://github.com/Dinuwababah)**|
 
 ---
 
